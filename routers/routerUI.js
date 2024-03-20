@@ -17,4 +17,4 @@ routerUI.all("*", (req, res, next) => {
   res.render("404");
 });
 
-module.exports.routerUI = routerUI;
+modual.export.routerUI = routerUI;
